@@ -1,0 +1,32 @@
+*{
+    font-family: 'Amatic SC', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Shadows Into Light', cursive;
+}
+
+img {
+    margin-left: 270px;
+}
+
+body {
+    background-image: url("https://newviewgranite.com/wp-content/uploads/2021/07/arabescato-venato-marble-300x300.jpg");
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+}
+
+button {
+    border-radius: 25%;
+    background-color: rgb(124, 88, 88);
+    color: white;
+    font-size: 16px;
+}
+
+p{
+    font-size: 20px;
+}
+
+h2 {
+    font-weight: 15px;
+    /* font-style: italic; */
+}
